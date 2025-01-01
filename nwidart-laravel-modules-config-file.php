@@ -6,7 +6,16 @@ use Nwidart\Modules\Activators\FileActivator;
 use Nwidart\Modules\Providers\ConsoleServiceProvider;
 
 return [
-
+    /*
+    |--------------------------------------------------------------------------
+    | Archium Version Code
+    |--------------------------------------------------------------------------
+    |
+    | Used to validate and apply updates and patches.
+    |
+    */
+    'archium_version' => '1.0.0',
+    
     /*
     |--------------------------------------------------------------------------
     | Module Namespace
