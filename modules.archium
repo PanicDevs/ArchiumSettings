@@ -1,0 +1,45 @@
+<archium::modules>
+
+  <archium::module>
+    <key>core</key>
+    <name>Core</name>
+    <description>Core module for archium by PanicDev</description>
+    <repository></repository>
+    <safe>true</safe>
+    <version>1.0.0</version>
+    <required>true</required>
+    <dependencies>
+      <module>base</module>
+      <module>support</module>
+    </dependencies>
+    <depends></depends>
+  </archium::module>
+
+  <archium::module>
+    <key>base</key>
+    <name>Base</name>
+    <description>Base module for archium by PanicDev</description>
+    <repository></repository>
+    <safe>true</safe>
+    <version>1.0.0</version>
+    <required>true</required>
+    <dependencies></dependencies>
+    <depends></depends>
+  </archium::module>
+
+
+  <archium::module>
+    <key>support</key>
+    <name>Support</name>
+    <description>Support module for archium by PanicDev</description>
+    <repository></repository>
+    <safe>true</safe>
+    <version>1.0.0</version>
+    <required>true</required>
+    <dependencies></dependencies>
+    <depends>
+      <module>base</module>
+    </depends>
+  </archium::module>
+
+</archium::modules>
