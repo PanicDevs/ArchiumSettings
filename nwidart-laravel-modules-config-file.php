@@ -14,7 +14,7 @@ return [
     | Used to validate and apply updates and patches.
     |
     */
-    'archium_version' => '1.0.1',
+    'archium_version' => '1.1.1',
     
     /*
     |--------------------------------------------------------------------------
