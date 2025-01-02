@@ -6,6 +6,7 @@
     <directory>Core</directory>
     <description>Core module for archium by PanicDev</description>
     <repository>https://github.com/PanicDevs/ArchiumCore</repository>
+    <branch>main</branch>
     <safe>true</safe>
     <version>1.0.0</version>
     <required>true</required>
@@ -22,6 +23,7 @@
     <directory>Base</directory>
     <description>Base module for archium by PanicDev</description>
     <repository>https://github.com/PanicDevs/ArchiumBase</repository>
+    <branch>main</branch>
     <safe>true</safe>
     <version>1.0.0</version>
     <required>true</required>
@@ -36,6 +38,7 @@
     <directory>Support</directory>
     <description>Support module for archium by PanicDev</description>
     <repository>https://github.com/PanicDevs/ArchiumSupport</repository>
+    <branch>main</branch>
     <safe>true</safe>
     <version>1.0.0</version>
     <required>true</required>
